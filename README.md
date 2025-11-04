@@ -16,7 +16,7 @@ I operate at the intersection of development and design, specializing in solutio
 * **Discord Ecosystem:** Expert in **Discord bot development** 🤖 and large-scale community management.
 * **Digital Content:** Enhancing engagement through **video editing** and creative design.
 
-> 💡 **My Ethos:** I thrive on **networking**, joining vibrant communities and being a **reliable, value-driven contributor** wherever I go. I believe in giving back by providing free support and technical expertise.
+> 💡 **My Ethos:** I thrive on **networking**, joining vibrant communities and being a **reliable, value-driven contributor** wherever I go. I believe in giving back by providing free support sometimes and technical expertise.
 
 ---
 
