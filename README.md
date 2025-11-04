@@ -26,7 +26,7 @@ I operate at the intersection of development and design, specializing in solutio
 | :--- | :--- |
 | **Age** | 18/19 🎂 |
 | **Location** | **Qatar** 🇶🇦 (He/Him) |
-| **Languages** | **English**, **Arabic**, **Urdu** (Fluent) & actively learning **German** 🇩🇪. |
+| **Languages** | **English**, **Arabic**, **Urdu** & actively learning **German** 🇩🇪. |
 | **Community Role** | Dedicated developer for **Texas Academy Hub** and active **Discord servers**. |
 | **Interests** | **Football** ⚽, **Gaming** 🎮, **Music** 🎧 and **Anime** 🎬. |
 
