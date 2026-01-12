@@ -1,7 +1,7 @@
 # My Verified Profile
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=k_mask&color=auto&height=300&section=header&text=xGGmasterboy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architect.%20Designer.%20Engineer.&descAlignY=51&descSize=20" width="100%" />
+  <img src="[https://capsule-render.vercel.app/render?type=k_mask&color=auto&height=300&section=header&text=xGGmasterboy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architect.%20Designer.%20Engineer.&descAlignY=51&descSize=20](https://media.discordapp.net/attachments/1373016493087785040/1455205206534127789/mohSMyp.png?ex=696655f5&is=69650475&hm=83e723a83625582e9d2235f83c95464522614e22b2e64213c7d33f470abab165&=&format=webp&quality=lossless&width=545&height=545)" width="100%" />
 </div>
 
 <p align="center">
